@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "839314443613",
+    "project_id": "signin-c8115",
+    "storage_bucket": "signin-c8115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839314443613:android:9fc85709ceeae6bbd66cb4",
+        "android_client_info": {
+          "package_name": "com.example.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839314443613-rmhc5rjn9ns8b9juflg67v3jqao516mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUvMM35kT36-F22tyEAuAOyrcuRjQGxww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839314443613-rmhc5rjn9ns8b9juflg67v3jqao516mm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "839314443613-5al8471bg4j8duln6mbsjq61c9nhvav1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pushNotification.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
